@@ -30,7 +30,7 @@ COGS: Cost of goods sold for the bicycle
 # Dashboard
 The Power BI dashboard consists of several pages that provide insights into different aspects of the business:
 
-Hourly Revenue Analysis: This page shows the hourly revenue for each day of the week, as well as the average hourly revenue for each month.
+Hourly Revenue Analysis: This page shows the hourly revenue for each day of the week, as well as the average hourly revenue for each month. 
 Profit and Revenue Trends: This page shows the profit and revenue trends over time, as well as the profit margin for each year.
 Seasonal Revenue: This page shows the seasonal revenue, as well as the most popular bike types for each season.
 Rider Demographics: This page shows the demographics of the riders, including the number of riders of each type and the average spending for each type of rider.
